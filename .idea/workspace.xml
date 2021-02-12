@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bb05184-5ea8-4f62-a659-2f70a893ddab" name="Default Changelist" comment="update maven.yml">
+    <list default="true" id="7bb05184-5ea8-4f62-a659-2f70a893ddab" name="Default Changelist" comment="added jacoco-check">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/statistic/StatisticsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/statistic/StatisticsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/statistic/StatisticsServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/statistic/StatisticsServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613134433883</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added jacoco-check">
+      <created>1613134917182</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613134917182</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,6 +84,7 @@
     <MESSAGE value="update pom.xml" />
     <MESSAGE value="added jacoco" />
     <MESSAGE value="update maven.yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update maven.yml" />
+    <MESSAGE value="added jacoco-check" />
+    <option name="LAST_COMMIT_MESSAGE" value="added jacoco-check" />
   </component>
 </project>
